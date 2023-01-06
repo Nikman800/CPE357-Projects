@@ -1,0 +1,3 @@
+Nikhil Mandke (nmandke)
+idk if the makefile works, so try running the program normally
+For some reason, while I was testing in visual studio, the code runs properly, but on linux, the words are printed in inverse order. As of right now, I cannot figure out why this is.
